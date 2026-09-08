@@ -7,8 +7,6 @@ const Page = async ({ params }: any) => {
 
 
   return <div>
-    <div>
-      yarr</div> 
     data {data.title}
     data {data.body}
   </div>;
